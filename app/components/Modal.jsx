@@ -27,8 +27,8 @@ export default function Modal({ open, content, onClose }) {
         </div>
 
         <div className="px-10 pb-10 flex justify-end items-center gap-10">
-          <button onClick={onClose} className="text-[#667085] text-sm font-bevietnam hover:text-black">Fechar</button>
-          <button className="bg-[#1E40AF] hover:bg-[#1E3A8A] text-white px-8 py-4 rounded-xl text-sm font-bevietnam">Experimente Agora</button>
+          <button onClick={onClose} className="text-[#667085] text-sm font-bevietnam hover:text-black cursor-pointer">Fechar</button>
+          <button className="bg-[#1E40AF] hover:bg-[#1E3A8A] text-white px-8 py-4 rounded-xl text-sm font-bevietnam cursor-pointer">Experimente Agora</button>
         </div>
       </div>
     </div>

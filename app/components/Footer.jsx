@@ -199,7 +199,7 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-6 py-14">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-12 text-white">
             <div>
-              <Image src="/nova-logo.svg" alt="logo" width={130} height={100} />
+              <Image src="/nova-logo.svg" alt="logo" width={170} height={100} />
               <p className="mt-6 text-sm text-white/80">
                 A plataforma definitiva para gestão de comércios, restaurantes e serviços.
               </p>

@@ -88,8 +88,8 @@ export default function Header() {
         <div className="mx-auto px-6">
           <div className="flex justify-around items-center h-20">
             {/* LOGO */}
-            <div className="flex items-center">
-              <Image src="/nova-logo.svg" alt="logo" width={130} height={100} />
+            <div className="flex items-center top-12">
+              <Image src="/nova-logo.svg" alt="logo" width={200} height={100} />
             </div>
 
             {/* MENU */}
