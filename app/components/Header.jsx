@@ -145,7 +145,10 @@ const router = useRouter();
             </ul>
 
             <div className="flex flex-col mt-4 gap-3">
-              <button className="border border-white/60 text-white py-2 rounded-lg text-sm">
+              <button
+               onClick={()=>router.push("/login")}
+              className="border border-white/60 text-white py-2 rounded-lg text-sm">
+             
                 Entrar
               </button>
               <button className="bg-white text-purple-600 py-3 rounded-lg text-sm font-medium">
