@@ -1,36 +1,89 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Gest Pro CRM
 
-## Getting Started
+🚀 Gest Pro CRM é um sistema de Gestão de Relacionamento com o Cliente desenvolvido para organizar, centralizar e otimizar todo o ciclo comercial da sua empresa — do primeiro contato ao pós-venda.
 
-First, run the development server:
+📌 Sobre o Gest Pro CRM
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+O Gest Pro CRM é um sistema desenvolvido especialmente para negócios locais, como restaurantes, lojas, barbearias, pizzarias, lanchonetes e pequenos comércios que precisam organizar clientes, vendas e atendimentos de forma simples e eficiente.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+A plataforma ajuda o empreendedor a ter controle total do relacionamento com o cliente, melhorar o atendimento, aumentar a recorrência e impulsionar as vendas sem complicação.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🧩 Principais Funcionalidades
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+👥 Cadastro de Clientes (nome, telefone, preferências, histórico)
 
-## Learn More
+📞 Registro de atendimentos e pedidos
 
-To learn more about Next.js, take a look at the following resources:
+📈 Controle de vendas e oportunidades
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+📝 Histórico completo de interações
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+⏰ Lembretes automáticos (retorno, promoções, aniversários)
 
-## Deploy on Vercel
+👤 Controle de usuários (gerente, atendente, vendedor)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📊 Relatórios simples e objetivos
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🎯 Benefícios para Negócios Locais
+
+Atendimento mais rápido e organizado
+
+Fidelização de clientes
+
+Redução de perdas por falta de controle
+
+Aumento do ticket médio
+
+Melhor visão das vendas e atendimentos
+
+Facilidade de uso no dia a dia
+
+🏪 Segmentos Atendidos
+
+🍽️ Restaurantes e lanchonetes
+
+🍕 Pizzarias
+
+💈 Barbearias e salões de beleza
+
+🛍️ Lojas físicas
+
+☕ Cafeterias
+
+🍔 Hamburguerias
+
+🧾 Pequenos comércios em geral
+
+🛠️ Tecnologias e Estrutura
+
+Sistema Web responsivo (computador, tablet e celular)
+
+Banco de dados relacional
+
+Controle de acesso por perfil
+
+Estrutura preparada para crescimento
+
+Boas práticas de segurança da informação
+
+🔐 Segurança e LGPD
+
+O Gest Pro CRM segue boas práticas de segurança, garantindo:
+
+Controle de acesso por usuário
+
+Proteção de dados dos clientes
+
+Logs de atividades
+
+Conformidade com princípios da LGPD
+
+🤝 Para quem é o Gest Pro CRM?
+
+Pequenos empresários
+
+Negócios locais
+
+Empresas que querem organizar clientes e vendas
+
+Estabelecimentos que buscam crescer com controle
